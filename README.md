@@ -63,6 +63,8 @@ function in pandas.
 In the code given below, we write the names of the columns that we want to fix in ‘id_vars’
 and rest of the columns then get unpivoted. In this case, all the date column headers get
 converted into row entries under the column that we have named using ‘var_name’ as ‘Date’.
+![Screenshot 2021-09-04 122653](https://user-images.githubusercontent.com/77155721/132085802-84537463-0ff5-4d13-8417-9f44710407dd.png)
+
 
 
 
