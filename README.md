@@ -71,5 +71,13 @@ Further, we join the three datasets into a single dataset so that it’s easier 
 the merge() function on the ‘Confirmed cases’ dataset and the ‘Deaths’ dataset and merge
 them together into a single dataset. Next, we merge that dataset with the ‘Recovered cases’
 dataset. Finally, we have all the three datasets merged into a single dataset.
+![Screenshot 2021-09-04 122846](https://user-images.githubusercontent.com/77155721/132085841-a6b99faa-01fc-4814-aad5-9899508276f1.png)
+
+Next, we perform some calculations on our data to derive the daily numbers from the
+cumulative numbers. Fundamentally, we subtract the total no. of cases on a particular day
+from the total no. of cases recorded on the next consecutive day, which gives us the daily
+records that we would want.
+
+
 
 
