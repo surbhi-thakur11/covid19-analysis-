@@ -66,5 +66,10 @@ converted into row entries under the column that we have named using ‘var_name
 ![Screenshot 2021-09-04 122653](https://user-images.githubusercontent.com/77155721/132085802-84537463-0ff5-4d13-8417-9f44710407dd.png)
 
 
+###  DATA MERGING
+Further, we join the three datasets into a single dataset so that it’s easier to work with. We use
+the merge() function on the ‘Confirmed cases’ dataset and the ‘Deaths’ dataset and merge
+them together into a single dataset. Next, we merge that dataset with the ‘Recovered cases’
+dataset. Finally, we have all the three datasets merged into a single dataset.
 
 
