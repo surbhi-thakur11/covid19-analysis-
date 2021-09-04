@@ -46,4 +46,23 @@ unrelated, repeated or not formatted properly, in order to perform further analy
 Firstly, we use the isnull() function to check for any null values in each of the datasets. This
 will give us the total no. of null row entries in each column:
 
+![Screenshot 2021-09-04 122455](https://user-images.githubusercontent.com/77155721/132085760-65d12114-0f8a-43f4-8217-b4cff458c38f.png)
+
+We see that there are 65,394 null values present in the Province/State column. In order to treat
+these null values, we fill it in with the values present in the corresponding Country/Region
+column
+
+### DATA TRANSFORMATION
+After cleaning the data, the next step is transforming our data into a desired format. By
+definition, data transformation is the process of converting data from one format or structure
+into another format or structure.
+In our datasets, the dates are in the form of columns. For the purpose of calculating the
+confirmed cases, recovered cases and deaths on a daily basis, we need to transform the date
+columns into row entries, or so to say, unpivot the date columns. For that, we use the melt()
+function in pandas.
+In the code given below, we write the names of the columns that we want to fix in ‘id_vars’
+and rest of the columns then get unpivoted. In this case, all the date column headers get
+converted into row entries under the column that we have named using ‘var_name’ as ‘Date’.
+
+
 
