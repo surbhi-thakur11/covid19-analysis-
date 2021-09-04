@@ -40,5 +40,10 @@ cleaning and transformation.
 The other two datasets, i.e., the ‘Recovered cases’ dataset and “Deaths’ dataset have a similar
 structure.
 
+### Data Cleaning 
+The process of removing or modifying data that is incorrect, incomplete,
+unrelated, repeated or not formatted properly, in order to perform further analysis.
+Firstly, we use the isnull() function to check for any null values in each of the datasets. This
+will give us the total no. of null row entries in each column:
 
 
