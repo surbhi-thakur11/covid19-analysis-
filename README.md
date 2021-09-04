@@ -87,7 +87,7 @@ data visualization.
 ### For Data Analysis and visualization I uesd Microsoft PowerBI and the link for the two dashboards is provided below:
 
 
-[covid.pdf](https://github.com/surbhi-thakur11/covid19-analysis-/files/7109351/covid.pdf)
+https://drive.google.com/file/d/1pJCX5SxIJHMsjKFPRkBJhxa2sJpujOfN/view?usp=sharing
 
 
 
