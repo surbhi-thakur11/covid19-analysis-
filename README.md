@@ -78,6 +78,15 @@ cumulative numbers. Fundamentally, we subtract the total no. of cases on a parti
 from the total no. of cases recorded on the next consecutive day, which gives us the daily
 records that we would want.
 
+![image](https://user-images.githubusercontent.com/77155721/132085859-f199ca08-5c13-4d1d-90dc-e2709310bde1.png)
+
+Now that our dataset is in perfect condition for further analysis after we have cleaned and
+transformed it, we export the transformed data to an Excel file and import it into Power BI for
+data visualization.
+
+### For Data Analysis and visualization I uesd Microsoft PowerBI and the link for the two dashboards is provided below:
+
+
 
 
 
