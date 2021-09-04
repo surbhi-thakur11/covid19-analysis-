@@ -20,4 +20,5 @@ available COVID-19 dataset provided by Johns Hopkins University and another dash
 tracking the cases in India, state-wise.
 
 ## Steps Followed
+![Screenshot 2021-09-04 122010](https://user-images.githubusercontent.com/77155721/132085650-a7048462-82b3-4f86-bdc4-7e18d35b44c3.png)
 
