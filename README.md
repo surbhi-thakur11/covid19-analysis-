@@ -35,5 +35,10 @@ all the dates. In total, each of the three datasets have 350 columns (i.e., befo
 the data).Each of the three datasets consists of approximately 250-300 row entries before data
 cleaning and transformation.
 
+![image](https://user-images.githubusercontent.com/77155721/132085701-49f3575a-ccfc-4db3-9061-c3049b25c9c2.png)
+
+The other two datasets, i.e., the ‘Recovered cases’ dataset and “Deaths’ dataset have a similar
+structure.
+
 
 
