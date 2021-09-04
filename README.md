@@ -1,5 +1,8 @@
 # Covid-19 Analysis
 
+![e446a8e6-ce5c-49e8-a4a8-fc53eee02a0d_1920x1080](https://user-images.githubusercontent.com/77155721/132086452-870626e7-4bf8-466d-843f-a67e5eec6b50.jpg)
+
+
 ### INTRODUCTION
 
 Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute
